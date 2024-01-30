@@ -54,7 +54,7 @@ u { color: blue; cursor: pointer;}
     bottom: 0;
     position:fixed; /* Set the navbar to fixed position */
     top:0%;
-    width: 12%; /* Full width */
+    width: 10%; /* Full width */
   }
   .navbar a {
     float: left;
